@@ -1,0 +1,8 @@
+PyQt5==5.15.11
+requests==2.32.3
+ultralytics==8.3.146
+opencv-python==4.11.0.86
+numpy==2.2.6
+dotenv==0.9.9
+python-dotenv==1.1.0
+google-genai==1.17.0
